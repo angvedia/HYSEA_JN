@@ -1,0 +1,25 @@
+cel = 0.01
+rel = 8.0
+ratio = 6.0
+
+nombres =
+# Nivel 0
+{
+    topobatimetrias/Golfo_Cadiz/NIVEL0_ultimo.bat 
+}
+
+# Nivel 1
+{
+    topobatimetrias/Golfo_Cadiz/NIVEL1_ultimo.bat   
+}
+
+# Nivel 2
+{
+    topobatimetrias/Golfo_Cadiz/topo_Golfo_1_ultimo.bat
+}
+{
+    topobatimetrias/Golfo_Cadiz/topo_Golfo_3_ultimo.bat,topobatimetrias/Golfo_Cadiz/topo_Golfo_4_ultimo.bat
+}
+{
+    topobatimetrias/Alboran/NIVEL1_malaga.bat
+}
