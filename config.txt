@@ -1,0 +1,17 @@
+# Número de archivos por nivel
+numporlevel = 1,1,3
+
+# Ratios de refinamiento entre niveles
+ratios = 4,8
+
+# Nombres de archivos por nivel (cada linea los nombres de los archivos diferentes)
+nombres = 
+topobatimetrias/nivel0_0.csv
+topobatimetrias/nivel1_0.csv
+topobatimetrias/nivel2_0.csv, topobatimetrias/nivel2_1.csv, topobatimetrias/nivel2_2.csv
+
+
+# Tamaño de los bloques de cada nivel (cada linea el tamaño de bloque de los niveles diferentes separados por comas)
+bloque= 
+16
+32,32,32
